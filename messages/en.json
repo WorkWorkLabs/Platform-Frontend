@@ -1,0 +1,28 @@
+{
+  "nav": {
+    "title": "Remote Job Sites Directory",
+    "subtitle": "Discover quality remote work and Web3 recruitment platforms worldwide",
+    "visitSite": "Visit Site"
+  },
+  "languages": {
+    "chinese": "Chinese",
+    "english": "English",
+    "spanish": "Spanish",
+    "french": "French",
+    "japanese": "Japanese",
+    "allLanguages": "All Languages"
+  },
+  "footer": {
+    "madeIn": "Made in WorkWork",
+    "description1": "Continuously pumping fresh talent into remote and Web3 industry development",
+    "description2": "Remote job search and workplace social platform ——— WorkWork"
+  },
+  "categories": {
+    "all": "All",
+    "web3": "Web3",
+    "remote": "Remote Work",
+    "blockchain": "Blockchain",
+    "crypto": "Cryptocurrency",
+    "defi": "DeFi"
+  }
+}

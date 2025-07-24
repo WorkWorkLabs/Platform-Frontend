@@ -1,0 +1,28 @@
+{
+  "nav": {
+    "title": "远程招聘网站导航",
+    "subtitle": "汇集全球优质远程工作与Web3招聘平台",
+    "visitSite": "访问网站"
+  },
+  "languages": {
+    "chinese": "中文",
+    "english": "英语",
+    "spanish": "西班牙语",
+    "french": "法语",
+    "japanese": "日语",
+    "allLanguages": "全语言"
+  },
+  "footer": {
+    "madeIn": "Made in WorkWork",
+    "description1": "为远程及Web3行业发展持续泵入新鲜血液",
+    "description2": "远程求职与职场社交平台 ——— WorkWork"
+  },
+  "categories": {
+    "all": "全部",
+    "web3": "Web3",
+    "remote": "远程工作",
+    "blockchain": "区块链",
+    "crypto": "数字货币",
+    "defi": "DeFi"
+  }
+}
