@@ -1,0 +1,28 @@
+{
+  "nav": {
+    "title": "Répertoire des Sites d'Emploi à Distance",
+    "subtitle": "Découvrez des plateformes de travail à distance et de recrutement Web3 de qualité dans le monde entier",
+    "visitSite": "Visiter le Site"
+  },
+  "languages": {
+    "chinese": "Chinois",
+    "english": "Anglais",
+    "spanish": "Espagnol",
+    "french": "Français",
+    "japanese": "Japonais",
+    "allLanguages": "Toutes les Langues"
+  },
+  "footer": {
+    "madeIn": "Fait par WorkWork",
+    "description1": "Injecter continuellement de nouveaux talents dans le développement de l'industrie à distance et Web3",
+    "description2": "Plateforme sociale de recherche d'emploi à distance et lieu de travail ——— WorkWork"
+  },
+  "categories": {
+    "all": "Tout",
+    "web3": "Web3",
+    "remote": "Travail à Distance",
+    "blockchain": "Blockchain",
+    "crypto": "Cryptomonnaie",
+    "defi": "DeFi"
+  }
+}
